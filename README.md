@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Aeiman191
-- 👀 I’m interested in Coding and Development
-- 🌱 I’m currently a student of Data Science
+Full Stack Data Scientist skilled in deep learning, machine learning, and computer vision. Adaptable, team-oriented, and goal-driven with strong analytical capabilities, database management proficiency, and a commitment to emerging technologies for impactful contributions to collaborative projects and business efficiency.
